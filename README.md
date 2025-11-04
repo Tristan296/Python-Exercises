@@ -5,13 +5,6 @@ The exercises cover foundational Python concepts and serve as a great way to str
 
 ---
 
-## 📘 Overview
-
-The exercises are organized by topic and gradually increase in difficulty.  
-Each script demonstrates the use of Python fundamentals such as loops, conditionals, functions, and data structures.
-
----
-
 ## 🧩 Topics Covered
 - Basic Syntax and Operations
 - Control Flow (if-else, loops)
