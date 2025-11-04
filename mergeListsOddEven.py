@@ -15,12 +15,12 @@ result list: [25, 35, 40, 60, 90]
 def mergeLists(l1, l2):
     result_l = []
     for num in l1:
-        if (num % 2 == 1):
+        if (num % 2 == 1): # odd number check
             result_l.append(num)        
             
     for num in l2:
-        if (num % 2 == 0):
-            result_l.append(num)
+        if (num % 2 == 0): # even number check
+            result_l.append(num) 
             
     return result_l
 

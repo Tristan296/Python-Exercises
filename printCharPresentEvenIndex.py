@@ -7,8 +7,8 @@ For example, str = "PYnative". so your code should display ‘P’, ‘n’, ‘
 """
 
 def printCharEvenIdx(s):
-    for i, letter in enumerate(s):
-        if(i % 2 == 0):
+    for i, letter in enumerate(s): # Loop through the string with index
+        if(i % 2 == 0): # Check if the index is even
             print(letter)
     
 printCharEvenIdx("PYnative")

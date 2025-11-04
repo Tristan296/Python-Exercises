@@ -5,6 +5,6 @@ the output shall be '6 3 5 7', with a space separating the digits.
 """
 
 def reverseNum(n):
-    return " ".join(str(n)[::-1])
+    return " ".join(str(n)[::-1]) # Convert number to string, reverse it and join with spaces
 
 print(reverseNum(7536)) 

@@ -12,9 +12,9 @@ Exercise 8: Print the following pattern
 # by the value of the string. E.g. print("3" * 3) -> 333
 
 def printTreePattern():
-    for i in range(1, 6):
-        str_num = str(i)
-        print((str_num + " ") * i)
+    for i in range(1, 6): # loop from 1 to 5
+        str_num = str(i) 
+        print((str_num + " ") * i) # multiply string by i to repeat it i times
         
 printTreePattern()
     

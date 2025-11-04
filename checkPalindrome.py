@@ -7,7 +7,7 @@ For example, 545 is a palindrome number.
 
 def isPalindrome(num):
     num = str(num)
-    return num[::-1] == num # checks if the str(num) reversed matches original.
+    return num[::-1] == num # checks if the str(num) reversed matches original. 
     
 print(isPalindrome(5333565))
 print(isPalindrome(121))

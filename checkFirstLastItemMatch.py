@@ -6,7 +6,7 @@ If the numbers are different, return False.
 """
 
 def firstLastSame(numList):
-    return numList[0] == numList[len(numList)-1]
+    return numList[0] == numList[len(numList)-1] # Compare first and last elements of the list
 
 print(firstLastSame([10,20,30,40,10]))
 print(firstLastSame([75,30]))
