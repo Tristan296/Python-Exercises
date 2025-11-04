@@ -26,4 +26,21 @@ Each script demonstrates the use of Python fundamentals such as loops, condition
 ---
 
 ## 📂 Folder Structure
+python-basic-exercises/
+│
+├── 01_basics/
+│ ├── exercise_1.py
+│ ├── exercise_2.py
+│ └── ...
+│
+├── 02_loops/
+│ ├── exercise_1.py
+│ ├── exercise_2.py
+│ └── ...
+│
+├── 03_functions/
+│ ├── exercise_1.py
+│ └── ...
+│
+└── README.md
 
