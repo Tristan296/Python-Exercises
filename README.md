@@ -13,34 +13,8 @@ Each script demonstrates the use of Python fundamentals such as loops, condition
 ---
 
 ## 🧩 Topics Covered
-
-- **Variables & Data Types**
-- **Strings & String Manipulation**
-- **Loops & Conditionals**
-- **Functions**
-- **Lists, Tuples, Sets, and Dictionaries**
-- **Input/Output Operations**
-- **Number & Math Operations**
-- **Formatting and f-Strings**
-
----
-
-## 📂 Folder Structure
-python-basic-exercises/
-│
-├── 01_basics/
-│ ├── exercise_1.py
-│ ├── exercise_2.py
-│ └── ...
-│
-├── 02_loops/
-│ ├── exercise_1.py
-│ ├── exercise_2.py
-│ └── ...
-│
-├── 03_functions/
-│ ├── exercise_1.py
-│ └── ...
-│
-└── README.md
-
+- Basic Syntax and Operations
+- Control Flow (if-else, loops)
+- Functions
+- Lists and Tuples
+- String Manipulation
